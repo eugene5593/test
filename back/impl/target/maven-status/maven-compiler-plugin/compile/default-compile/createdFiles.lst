@@ -1,0 +1,8 @@
+ru\eugene\planningpoker\impl\repository\RoomRepository.class
+ru\eugene\planningpoker\impl\config\WebSocketConfig.class
+ru\eugene\planningpoker\impl\converter\ConverterPokerUsers.class
+ru\eugene\planningpoker\impl\repository\PokerUserRepository.class
+ru\eugene\planningpoker\impl\config\WebMvcConfig.class
+ru\eugene\planningpoker\impl\WebSocketEventListener.class
+ru\eugene\planningpoker\impl\service\PokerUserService.class
+ru\eugene\planningpoker\impl\service\RoomService.class

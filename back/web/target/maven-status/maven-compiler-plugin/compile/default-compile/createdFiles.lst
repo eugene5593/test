@@ -1,0 +1,4 @@
+ru\eugene\planningpoker\web\controller\RoomController.class
+ru\eugene\planningpoker\web\controller\WebSocketController.class
+ru\eugene\planningpoker\web\controller\ForwardingController.class
+ru\eugene\planningpoker\web\WebApplication.class
